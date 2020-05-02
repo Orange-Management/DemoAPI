@@ -1,1 +1,8 @@
-
+[
+    {
+        "name": "oms-Admin",
+        "id": 10001000,
+        "description": "Test description",
+        "version": "0.1.0"
+    }
+]
